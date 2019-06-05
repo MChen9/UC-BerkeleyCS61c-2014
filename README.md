@@ -6,4 +6,4 @@
 
 ## Timeline
 *06/05/2019*
--[ ] video 2
+- [ ] video 2
