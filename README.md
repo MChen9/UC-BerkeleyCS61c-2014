@@ -9,4 +9,5 @@
 - [x] video 2
 
 *06/06/2019*
-- [x] reading: P&H: 2.4, Binary slides
+- [x] Reading: P&H: 2.4, Binary slides
+- [ ] Discssion 0 
