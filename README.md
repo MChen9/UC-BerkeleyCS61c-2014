@@ -6,4 +6,7 @@
 
 ## Timeline
 *06/05/2019*
-- [ ] video 2
+- [x] video 2
+
+*06/06/2019*
+- [ ] reading: P&H: 2.4, Binary slides
